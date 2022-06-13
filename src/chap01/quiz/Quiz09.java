@@ -38,7 +38,6 @@ public class Quiz09 {
 		System.out.println("a와 b를 포함한 둘 사이 모든 정수의 합은 " + sumOf(a, b) + "입니다.");
 		
 		scan.close();
-		
 	}
 
 }
